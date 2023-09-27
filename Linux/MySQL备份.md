@@ -23,3 +23,5 @@ crontab -l
 
 0 2 * * * /bin/bash /data/backups/backup.sh
 ```
+
+参考资料：[MySQL定期备份](https://zhengxiaoping.xyz/fullstack/MySQL%E5%AE%9A%E6%9C%9F%E5%A4%87%E4%BB%BD.html)
